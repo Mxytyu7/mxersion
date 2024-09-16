@@ -1,3 +1,3 @@
-import main.py
-import core.py
-import system.py
+import .main
+import .core
+import .sys

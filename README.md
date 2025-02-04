@@ -22,3 +22,18 @@ conda install mxersion
 pip install mxersion
 ```
 
+# List of Free & Paid AI(S)
+
+**Conversational**
+
+• SE.02 (Mini): Free
+• SE.02 (Medium): Only inference
+• SE.02 (Large): Paid
+
+**Text to image**
+
+N/A
+
+**Text Classification**
+
+• Emotion: Free 

@@ -5,6 +5,6 @@ An Open-Source Library for free & paid artificial intelligence use using both lo
 # Install
 **Ver: 0.1**
 
-'''
+'''shell
 pip install mxersion
 '''

@@ -27,7 +27,11 @@ pip install mxersion
 **Conversational**
 
 • SE.02 (Mini): Free
+
+
 • SE.02 (Medium): Only inference
+
+
 • SE.02 (Large): Paid
 
 **Text to image**
